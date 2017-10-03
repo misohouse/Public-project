@@ -1,0 +1,14 @@
+﻿  rbs_viewerDlg.cpp
+d:\files of graduate school\5_논문\1_연구\telemetry\rbs_viewer\rbs_viewerdlg.cpp(323): warning C4244: '초기화 중': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files of graduate school\5_논문\1_연구\telemetry\rbs_viewer\rbs_viewerdlg.cpp(417): warning C4244: '초기화 중': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files of graduate school\5_논문\1_연구\telemetry\rbs_viewer\rbs_viewerdlg.cpp(465): warning C4244: '초기화 중': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files of graduate school\5_논문\1_연구\telemetry\rbs_viewer\rbs_viewerdlg.cpp(516): warning C4244: '초기화 중': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files of graduate school\5_논문\1_연구\telemetry\rbs_viewer\rbs_viewerdlg.cpp(612): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files of graduate school\5_논문\1_연구\telemetry\rbs_viewer\rbs_viewerdlg.cpp(407): warning C4101: 'base64_tmp_length' :참조되지 않은 지역 변수입니다.
+d:\files of graduate school\5_논문\1_연구\telemetry\rbs_viewer\rbs_viewerdlg.cpp(405): warning C4101: 'base64_check' :참조되지 않은 지역 변수입니다.
+d:\files of graduate school\5_논문\1_연구\telemetry\rbs_viewer\rbs_viewerdlg.cpp(406): warning C4101: 'base64_tmp' :참조되지 않은 지역 변수입니다.
+json_vc71_libmtd.lib(json_reader.obj) : warning LNK4099: 'lib_json.pdb' PDB를 'json_vc71_libmtd.lib(json_reader.obj)' 또는 'D:\Files of Graduate School\5_논문\1_연구\Telemetry\rbs_viewer\Debug\lib_json.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+json_vc71_libmtd.lib(json_value.obj) : warning LNK4099: 'lib_json.pdb' PDB를 'json_vc71_libmtd.lib(json_value.obj)' 또는 'D:\Files of Graduate School\5_논문\1_연구\Telemetry\rbs_viewer\Debug\lib_json.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+json_vc71_libmtd.lib(json_writer.obj) : warning LNK4099: 'lib_json.pdb' PDB를 'json_vc71_libmtd.lib(json_writer.obj)' 또는 'D:\Files of Graduate School\5_논문\1_연구\Telemetry\rbs_viewer\Debug\lib_json.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  rbs_viewer.vcxproj -> D:\Files of Graduate School\5_논문\1_연구\Telemetry\rbs_viewer\Debug\rbs_viewer.exe
+  rbs_viewer.vcxproj -> D:\Files of Graduate School\5_논문\1_연구\Telemetry\rbs_viewer\Debug\rbs_viewer.pdb (Partial PDB)
